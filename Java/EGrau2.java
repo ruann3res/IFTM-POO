@@ -1,5 +1,3 @@
-package ex2;
-
 public class EGrau2 {
     public double a, b, c;
 
